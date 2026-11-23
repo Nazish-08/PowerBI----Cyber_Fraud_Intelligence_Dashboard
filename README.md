@@ -119,7 +119,7 @@ Watch the complete dashboard demonstration:
 
 ## 👩‍💻 Author
 
-**Nazish**
+**Nazish Shaikh**
 
 GitHub: [@Nazish-08](https://github.com/Nazish-08)
 
