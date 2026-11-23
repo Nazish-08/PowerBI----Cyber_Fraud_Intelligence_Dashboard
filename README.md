@@ -106,7 +106,7 @@ Additional project documentation and chart explanations are available in the `Da
 
 Watch the complete dashboard demonstration:
 
-[🎥 Click Here to Watch Dashboard Video](<Dashboard Output Screenshot & Video/Dashboard Video.mp4>)
+![Dashboard Video](<Dashboard Output Screenshot & Video/Dashboard Video.mp4>)
 
 ## 📥 How to Access the Project
 
