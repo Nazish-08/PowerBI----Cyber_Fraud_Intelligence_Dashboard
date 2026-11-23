@@ -100,13 +100,13 @@ The project contains the following supporting datasets:
 
 ## 📄 Project Documentation
 
-Additional project documentation and chart explanations are available in the `Dashboard Output Screenshot & Video` folder.
+Additional project documentation, chart explanations, and dashboard screenshots are available in the `Dashboard Output Screenshot & Video` folder.
 
 ## ▶️ Project Demonstration Video
 
-Watch the complete dashboard demonstration:
+Watch the complete demonstration of the **Cyber Fraud Intelligence Dashboard**.
 
-![Dashboard Video](<Dashboard Output Screenshot & Video/Dashboard Video.mp4>)
+📹 **[Click Here to Watch Dashboard Demonstration Video](./Dashboard%20Output%20Screenshot%20%26%20Video/Dashboard%20Video.mp4)**
 
 ## 📥 How to Access the Project
 
